@@ -20,7 +20,7 @@ News-App is a web application that fetches and displays news articles from vario
 1. Clone the repository:
 
    ```bash
-   git clone github.com/Dhruvgos/news-app
+     git clone https://github.com/Dhruvgos/news-app.git
 Open the index.html file in your web browser.
 
 Start exploring the latest news!
